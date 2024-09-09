@@ -1,0 +1,105 @@
+body{
+    
+    background-image: linear-gradient(to bottom, rgba(73, 145, 183, 0.984), rgba(191, 99, 199, 0.447));
+}
+.box{
+    background-color: beige;
+width: 700px;
+height: 500px;
+
+
+}
+.one{
+    background-color: rgba(255, 228, 196, 0.698);
+    width: 400px;
+    border-radius: 30px;
+    border: 3px solid black;
+    margin-left: 50px;
+    color: aliceblue;
+   
+
+}
+.o{
+    /* background-color:  rgb(193, 125, 202); */
+    
+    background-image: linear-gradient(to right, rgba(222, 184, 135, 0.853),rgba(225, 180, 180, 0.893),rgba(191, 99, 199, 0.972));
+    width: 370px;border-radius: 30px;
+    text-align: right;
+    padding-right: 20px;
+    color: aliceblue;
+   
+   
+}
+.l{
+    /* background-color: rgb(193, 125, 202); */
+    
+    background-image: linear-gradient(to right, rgba(222, 184, 135, 0.853),rgba(225, 180, 180, 0.893),rgba(191, 99, 199, 0.972));
+    width: 340px;border-radius: 30px;
+    text-align: right; 
+    padding-right: 20px;
+    color: aliceblue;
+   
+}
+
+
+.one{
+    background-color: rgba(255, 228, 196, 0.886);
+    width: 400px;
+    border-radius: 30px;
+    border: 2px solid black;
+    margin-left: 50px;
+    color: aliceblue;
+   
+
+}
+
+.p{
+    /* background-color: rgb(193, 125, 202); */
+    
+    background-image: linear-gradient(to right, rgba(222, 184, 135, 0.853),rgba(225, 180, 180, 0.893),rgba(191, 99, 199, 0.972));
+    width: 300px;border-radius: 30px;
+    text-align: right;
+    padding-right: 20px;
+    color: aliceblue;
+   
+}
+.q{
+    /* background-color:  rgb(193, 125, 202); */
+    
+ 
+    background-image: linear-gradient(to right, rgba(222, 184, 135, 0.853),rgba(225, 180, 180, 0.893),rgba(191, 99, 199, 0.972));
+    width: 250px;border-radius: 30px;
+    text-align: right;
+    padding-right: 20px;
+    color: aliceblue;
+   
+}
+
+
+.skill{
+    margin: 100px 500px  0px 700px;
+
+    background-color: rgb(102, 154, 218);
+    height: 600px;
+    width: 600px;
+    border-radius: 50px;
+    box-shadow: 3px 3px 30px black;
+    margin-bottom: 300px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    /* background-color: rgba(193, 125, 202, 0.805); */
+    
+    background-image: linear-gradient(to right, rgba(222, 184, 135, 0.853),rgba(225, 180, 180, 0.893),rgba(191, 99, 199, 0.972));
+    padding: 8px;
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+}
+h2{
+    margin-left: 30px;
+    color:black
+  
+}
+
